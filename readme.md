@@ -1,9 +1,16 @@
-<h3><b>What does the script do ?</b></h3>
+<h3><b>What can the script do ?</b></h3>
 
 This script allows you to interpolate between two positive prompts.<br>
 It can also create a gif with the generated images.<br>
 It works for both txt2img and img2img.<br>
 It doesn't work for DDIM and PLMS.<br>
+
+
+<h3><b>Example</b></h3>
+
+I interpolated between pyra and mythra from xenoblade chronicles 2.<br>
+Here is the gif that the script generated.<br>
+![mythra-swap-to-pyra](https://user-images.githubusercontent.com/24735555/195470874-afc3dfdc-7b35-4b23-9c34-5888a4100ac1.gif)
 
 
 <h3><b>Installation</b></h3>
@@ -13,7 +20,7 @@ It doesn't work for DDIM and PLMS.<br>
 <li>Restart you webui.</li>
 
 
-<h3><b>How to use it ?</b></h3>
+<h3><b>Usage</b></h3>
 
 <li>Enter your first prompt in the usual prompt section, for instance</li>
 
@@ -44,7 +51,4 @@ flat color, blush, lowres, bad anatomy, bad hands, text, error, missing fingers,
 
 ![image](https://user-images.githubusercontent.com/24735555/195469969-238759dc-c05f-49fc-ad1e-465a38dc5766.png)
 
-<li>You can find the generated gif in <i>"outputs/txt2img-grids"</i><br>
-And here is the generated gif that I got.
-
-![mythra-swap-to-pyra](https://user-images.githubusercontent.com/24735555/195470874-afc3dfdc-7b35-4b23-9c34-5888a4100ac1.gif)
+<li>You can find the generated gif in <i>"outputs/txt2img-grids"</i>
