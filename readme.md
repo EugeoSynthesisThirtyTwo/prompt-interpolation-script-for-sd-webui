@@ -1,1 +1,42 @@
-test
+<h3><b>What does the script do ?</b></h3>
+
+This script allows you to interpolate between two positive prompts.<br>
+It can also create a gif with the generated images.<br>
+It works for both txt2img and img2img.<br>
+It doesn't work for DDIM and PLMS.<br>
+
+<h3><b>How to use it ?</b></h3>
+
+<li>Enter your first prompt in the usual prompt section, for instance</li>
+
+```
+1girl, mythra from xenoblade chronicles, best quality, upper body
+```
+
+<li>Select <i>"Script > Prompts interpolation"</i></li>
+
+<li>Enter your second prompt in the <i>"Interpolation Prompt"</i> textbox, for instance</li>
+
+```
+1girl, pyra from xenoblade chronicles, best quality, upper body
+```
+
+<li>If you have any negative that you want all of your generated images to share, add them to the usual negative prompt textbox, for instance</li>
+
+```
+flat color, blush, lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, male focus, solo male, poorly drawn, deformed, poorly drawn face, (extra leg:1.3), (extra fingers:1.2), out of frame
+```
+
+<li>Select the number of image you want to generate between the first prompt and the second prompt. For the example I choosed 128.</li>
+<li>Check <i>"Make a gif"</i></li>
+
+<li>You can choose the number of milliseconds you want between each frame of the generated gif. I choosed 50.</li>
+
+<li>Click the <i>"Generate"</i> button and wait... My user interface now looks like this.<li>
+
+![image](https://user-images.githubusercontent.com/24735555/195469969-238759dc-c05f-49fc-ad1e-465a38dc5766.png)
+
+<li>You can find the generated gif in <i>"outputs/txt2img-grids"</i><br>
+And here is the generated gif that I got.
+
+![mythra-swap-to-pyra](https://user-images.githubusercontent.com/24735555/195470874-afc3dfdc-7b35-4b23-9c34-5888a4100ac1.gif)
