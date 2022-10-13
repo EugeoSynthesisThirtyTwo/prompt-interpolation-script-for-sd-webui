@@ -1,6 +1,8 @@
+I just realised that this script is a duplicate of this one... https://github.com/feffy380/prompt-morph
+
 <h3><b>What can the script do ?</b></h3>
 
-This script allows you to interpolate between two positive prompts.<br>
+This script allows you to interpolate between two positive prompts, it uses the AND syntaxes.<br>
 It can also create a gif with the generated images.<br>
 It works for both txt2img and img2img.<br>
 It doesn't work for DDIM and PLMS.<br>
