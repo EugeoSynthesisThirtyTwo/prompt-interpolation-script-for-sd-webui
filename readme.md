@@ -5,6 +5,14 @@ It can also create a gif with the generated images.<br>
 It works for both txt2img and img2img.<br>
 It doesn't work for DDIM and PLMS.<br>
 
+
+<h3><b>Installation</b></h3>
+
+<li>Download the file "prompt_interpolation.py"</li>
+<li>Move it to your "scripts/" folder, see https://github.com/AUTOMATIC1111/stable-diffusion-webui</li>
+<li>Restart you webui.</li>
+
+
 <h3><b>How to use it ?</b></h3>
 
 <li>Enter your first prompt in the usual prompt section, for instance</li>
