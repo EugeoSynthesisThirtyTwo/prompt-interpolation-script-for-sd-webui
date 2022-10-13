@@ -1,4 +1,4 @@
-I just realised that this script is a duplicate of this one... https://github.com/feffy380/prompt-morph
+I just realised that this script does almost the same thing as this one... https://github.com/feffy380/prompt-morph
 
 <h3><b>What can the script do ?</b></h3>
 
