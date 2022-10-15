@@ -1,3 +1,5 @@
+I am currently working to get the best out of this script and this one https://github.com/feffy380/prompt-morph
+
 <h3><b>Features</b></h3>
 
 <li>Interpolate between two positive prompts, it uses the AND syntaxes so it doesn't work for DDIM and PLMS.</li>
