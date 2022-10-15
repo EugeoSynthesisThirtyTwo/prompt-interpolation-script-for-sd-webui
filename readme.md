@@ -3,7 +3,7 @@
 <li>Interpolate between two positive prompts, it uses the AND syntaxes so it doesn't work for DDIM and PLMS.</li>
 <li>Create a gif with the generated images.</li>
 <li>Works for both txt2img and img2img.</li>
-<li>Increase your batch count and batch size interpolate between many size at the same time.</li>
+<li>Increase your batch count and batch size to interpolate between many seeds at the same time.</li>
 
 
 <h3><b>Example</b></h3>
