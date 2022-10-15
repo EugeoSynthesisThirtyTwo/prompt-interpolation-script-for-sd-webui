@@ -1,4 +1,4 @@
-Credits to feffy380 who had this idea before me and who inspires me : https://github.com/feffy380/prompt-morph<br>
+Credits to feffy380 who had this idea before me and whose script is helping to improve mine : https://github.com/feffy380/prompt-morph<br>
 I am currently working to get the best out of his script and my script<br>
 
 <h3><b>Features</b></h3>
