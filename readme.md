@@ -1,5 +1,5 @@
 Credits to feffy380 who had this idea before me and whose script is helping to improve mine : https://github.com/feffy380/prompt-morph<br>
-I am currently working to get the best out of his script and my script<br>
+I have given up, I am not interested in this extension anymore. There will be no future update.<br>
 
 <h3><b>Features</b></h3>
 
